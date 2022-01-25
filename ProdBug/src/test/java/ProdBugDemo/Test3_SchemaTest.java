@@ -2,6 +2,13 @@ package ProdBugDemo;
 
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
+import org.hamcrest.*;
+import io.restassured.http.*;
+
+import static io.restassured.RestAssured.*;
+import static io.restassured.RestAssured.*;
+import static io.restassured.RestAssured.*;
+import static org.hamcrest.Matchers.*;
 import static org.hamcrest.Matchers.*;
 
 import java.util.List;

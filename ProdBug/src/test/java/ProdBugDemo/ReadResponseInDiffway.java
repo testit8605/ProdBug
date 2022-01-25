@@ -97,7 +97,7 @@ public class ReadResponseInDiffway
 			.response();
 		
 		System.out.println(response.contentType());
-		System.out.println(response.path("body"));
+		//System.out.println(response.path("body"));
 		System.out.println(response.statusCode());
 	}
 	
